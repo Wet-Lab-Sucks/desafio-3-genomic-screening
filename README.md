@@ -1,4 +1,4 @@
-# Desafio 3 - Screening de Atividade Transcricional em E. coli
+# Desafio 3: Screening de Atividade Transcricional em E. coli
 
 ## Descrição do Desafio
 
