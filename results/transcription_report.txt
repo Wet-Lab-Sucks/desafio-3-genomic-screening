@@ -1,0 +1,15 @@
+RELATÓRIO DE ATIVIDADE TRANSCRICIONAL
+===================================
+
+Total de cepas analisadas: 500
+
+Distribuição por atividade transcricional:
+- baixa: 180 cepas (36.0%)
+- moderada: 167 cepas (33.4%)
+- alta: 86 cepas (17.2%)
+- nula: 67 cepas (13.4%)
+
+Estatísticas de distância promotor-gene:
+- Média: 319.34 nucleotídeos
+- Mínima: 14 nucleotídeos
+- Máxima: 599 nucleotídeos
